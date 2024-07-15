@@ -38,9 +38,6 @@ select {
   margin: auto;
   background: rgb(248, 208, 220);
 }
-span {
-  color: red!important;
-}
 textarea {
   padding: 10px;
   color: darkmagenta;
